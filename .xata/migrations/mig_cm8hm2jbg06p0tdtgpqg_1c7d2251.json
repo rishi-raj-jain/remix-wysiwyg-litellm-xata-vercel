@@ -1,0 +1,16 @@
+{
+  "id": "mig_cm8hm2jbg06p0tdtgpqg",
+  "parentID": "mig_cm8hlvrju5la92mjfu90",
+  "checksum": "1:1c7d2251d3c2b327a06c2c48fa10cf811a18f6fe8dcd6ede8eba1e6eb92d4503",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "photo",
+          "type": "file[]"
+        },
+        "table": "uploads"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mig_cm8ooqi44015etohlmfg",
+  "parentID": "mig_cm8oooq44015etohlmeg",
+  "checksum": "1:e137663fdac88891b22243d26267f3a4a68c77207e2f2f927f978362a50a7150",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "title",
+          "type": "string"
+        },
+        "table": "content"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mig_cm8ouiq44015etohlmkg",
+  "parentID": "mig_cm8ouhi44015etohlmjg",
+  "checksum": "1:f4c4e260618dccb538aec6454437ae7d18227e87387f2025300cf1c2e6bc25fb",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "og_image_h",
+          "type": "string"
+        },
+        "table": "content"
+      }
+    }
+  ]
+}

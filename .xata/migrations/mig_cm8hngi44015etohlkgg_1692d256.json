@@ -1,0 +1,19 @@
+{
+  "id": "mig_cm8hngi44015etohlkgg",
+  "parentID": "mig_cm8hnejbg06p0tdtgprg",
+  "checksum": "1:1692d256f21ab19070921a9f8ecbbbe1e46c3682dcf3bc7fec42c8b69dbb9d62",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "photo",
+          "type": "file",
+          "file": {
+            "defaultPublicAccess": true
+          }
+        },
+        "table": "uploads"
+      }
+    }
+  ]
+}

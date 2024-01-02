@@ -1,0 +1,16 @@
+{
+  "id": "mig_cm8ouejju5la92mjg010",
+  "parentID": "mig_cm8op8a44015etohlmhg",
+  "checksum": "1:f9203cb95e742de4e2ba773204da9b0b92735d9a4fa0c0dbce672f4762c96514",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "author_image_w",
+          "type": "string"
+        },
+        "table": "content"
+      }
+    }
+  ]
+}

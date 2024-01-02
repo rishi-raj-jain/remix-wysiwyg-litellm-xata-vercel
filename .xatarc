@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Rishi-Raj-Jain-s-workspace-80514q.us-east-1.xata.sh/db/remix-wysiwyg-litellm-xata-vercel",
+  "codegen": {
+    "output": "app/xata.server.ts"
+  }
+}
