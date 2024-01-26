@@ -1,15 +1,42 @@
-<!-- <a href="https://xata.io/blog/build-image-gallery-astro-cloudflare">
-    <img alt="Build your own image gallery CMS" src="https://raw.githubusercontent.com/xataio/mdx-blog/main/images/gallery-cms-astro-cloudflare.png">
-</a> -->
+<!-- ![](https://raw.githubusercontent.com/xataio/mdx-blog/main/images/gallery-cms-astro-cloudflare.png) -->
 
-# Building your own Content CMS with Xata, Remix and Vercel
-    
-<a href="#introduction"><strong>Introduction</strong></a> · <a href="#author"><strong>Author</strong></a>
-<br/>
+# Build your own Content CMS
 
-## Introduction
+<p>
+  <a href="#introduction"><strong>Introduction</strong></a> ·
+  <a href="#tech-stack--features"><strong>Tech Stack + Features</strong></a> ·
+  <a href="#author"><strong>Author</strong></a>
+</p>
 
-An open source template of content CMS with Xata, Remix and Vercel.
+<!-- ## Introduction
+
+Learn [how to create a custom image gallery CMS](https://xata.io/blog/build-image-gallery-astro-cloudflare) using Xata, Astro, and Cloudflare Pages. -->
+
+## Tech Stack + Features
+
+### Frameworks
+
+- [Remix](https://remix.run) – Framework for building full-stack web applications with focus on Web Standards.
+
+- [LiteLLM](https://docs.litellm.ai) – Call all LLM APIs using the OpenAI format
+
+- [Novel](https://novel.sh) – A Notion-style WYSIWYG editor with AI-powered autocompletion
+
+### Database
+
+- [Xata](https://xata.io) - Serverless database platform for scalable, real-time applications.
+
+### UI
+
+- [TailwindCSS](https://tailwindcss.com) – CSS framework for building custom designs
+
+### Platform
+
+- [Vercel](https://vercel.com) – A cloud platform for deploying and scaling web applications.
+
+### Code Quality
+
+- [Prettier](https://prettier.io/) – Opinionated code formatter for consistent code style
 
 ## Author
 
