@@ -1,4 +1,4 @@
-<!-- ![](https://raw.githubusercontent.com/xataio/mdx-blog/main/images/gallery-cms-astro-cloudflare.png) -->
+![](https://raw.githubusercontent.com/xataio/mdx-blog/main/images/cms-cover.jpeg)
 
 # Build your own Content CMS
 
@@ -8,9 +8,9 @@
   <a href="#author"><strong>Author</strong></a>
 </p>
 
-<!-- ## Introduction
+## Introduction
 
-Learn [how to create a custom image gallery CMS](https://xata.io/blog/build-image-gallery-astro-cloudflare) using Xata, Astro, and Cloudflare Pages. -->
+Learn how to create a custom CMS using Xata, Remix, Novel, LiteLLM, and Vercel.
 
 ## Tech Stack + Features
 
